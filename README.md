@@ -4,5 +4,5 @@ This is a Pygame which allows users to collect green, red, yellow stars while yo
 ## Game Play
 ![Screen Shot 2021-11-23 at 1 07 31 PM](https://user-images.githubusercontent.com/89673315/143127814-fb3e365a-cbe5-494e-8c74-8e94beebb70c.png)
 
-##URL for the game
+## URL for my game
 https://replit.com/join/vuqwvygxgg-ahyeonjeon1
