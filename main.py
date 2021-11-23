@@ -7,7 +7,7 @@ from kirby import Kirby
 from red import Red
 from yellow import Yellow
 from green import Green
-from constants import lanes, background, screen
+from constants import lanes, background, screen, clock
 from ScoreBoard import ScoreBoard
 
 pygame.init()
@@ -112,6 +112,7 @@ while running:
     running = False
   # Update the window
   pygame.display.flip()
+  clock.tick(60)
 
 
 
